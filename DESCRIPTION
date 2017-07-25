@@ -1,0 +1,14 @@
+Package: joshuaproject
+Type: Package
+Title: Data from the Joshua Project
+Version: 0.1.0
+Authors@R: person("Sam", "Boysel", email = "sboysel@gmail.com", 
+  role = c("aut", "cre"))
+Maintainer: Sam Boysel <sboysel@gmail.com>
+Description: A collection of tabular datasets from the Joshua Project packaged as data frames.
+  See https://joshuaproject.net/resources/datasets.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Depends: R (>= 2.10)
